@@ -1,0 +1,29 @@
+{
+  "name": "mymykitchen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",  
+   "dependencies": {
+      "express": "^4.18.2"
+    },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js",
+    "dev":"nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trob0r/mymyKitchen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trob0r/mymyKitchen/issues"
+  },
+  "homepage": "https://github.com/trob0r/mymyKitchen#readme",
+  "description": ""
+}
